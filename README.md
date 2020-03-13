@@ -12,4 +12,17 @@ https://www.youtube.com/watch?v=81NrExkyCU8 <br/>
 https://docs.google.com/document/d/1UOaGnfu2LBeAEbuEu4agfoPtqMVIILXRGa784MzV9og/view <br/>
 影片<br/>
 https://www.youtube.com/watch?v=5mjFLwRMpxo
+### 程序
+下載：<br/>
+https://dotnet.microsoft.com/download <br/>
+安裝<br/>
+cmd<br/>
+dotnet new web -o wk02<br/>
+cd wk02<br/>
+ipconfig <br/>
+加入 webBuilder.UseUrls("https://ip/"); <br/>
+加入 app.UseStaticFiles()<br/>
+加入 wwwroot/wk0301.html <br/>
+dotnet run<br/>
+chrome https://ip/wk0301.html <br/>
 
