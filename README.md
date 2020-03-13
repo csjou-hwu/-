@@ -25,4 +25,6 @@ ipconfig <br/>
 加入 wwwroot/wk0301.html <br/>
 dotnet run<br/>
 chrome https://ip/wk0301.html <br/>
+### 3D基本概念
+![虛擬相機(ref:MS](BC3DFromMS.png)<br/>
 
