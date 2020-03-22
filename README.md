@@ -34,4 +34,5 @@ chrome https://網址/wk0301.html <br/>
 1. 製作單元3程式<br/>
 2. 參考虛擬相機，建立自己的積木堆<br/>
 ![虛擬相機(ref:MS](BC3DFromMS.png)<br/>
+![積木範例](wk04.png)<br/>
 
