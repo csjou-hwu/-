@@ -28,6 +28,9 @@ https://www.youtube.com/watch?v=5mjFLwRMpxo
 內容參考網址： https://aframe.io/docs/1.0.0/introduction/
 dotnet run<br/>
 chrome https://網址/wk0301.html <br/>
+影片<br/>
+https://www.youtube.com/watch?v=WnYKd3tTvAM
+
 
 ## 單元4 複習電腦基本操作與指令
 ### 3D基本概念
