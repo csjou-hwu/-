@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=5mjFLwRMpxo
 下載：<br/>
 網址：https://dotnet.microsoft.com/download <br/>
 安裝<br/>
-開啟命令提示自元 cmd<br/>
+開啟命令提示字元 cmd<br/>
 建立範本程式 dotnet new web -o wk02<br/>
 切換目錄(工作) cd wk02<br/>
 檢查網址設定 ipconfig <br/>
@@ -38,4 +38,20 @@ https://www.youtube.com/watch?v=WnYKd3tTvAM
 2. 參考虛擬相機，建立自己的積木堆<br/>
 ![虛擬相機(ref:MS](BC3DFromMS.png)<br/>
 ![積木範例](wk04.png)<br/>
-
+### 程序
+下載：<br/>
+網址：https://dotnet.microsoft.com/download <br/>
+安裝<br/>
+開啟命令提示字元 cmd<br/>
+下載上週範例w4.7z：https://github.com/csjou-hwu/coding1082/blob/master/w4.7z <br/>
+解壓縮 w7.7z<br/>
+切換目錄(工作) cd w4<br/>
+檢查網址設定 ipconfig <br/>
+執行程式 dotnet run<br/>
+瀏覽器看結果 chrome https://網址/w0401.html <br/>
+## 單元5 複習電腦基本操作與指令+3D場景
+內容參考網址： https://aframe.io/docs/1.0.0/primitives/a-sky.html <br/>
+下載 Street1.jpg https://github.com/csjou-hwu/coding1082/blob/master/Street1.jpg <br/>
+w0401.html 加入(w0501.html)<br/>
+<a-sky src="Street1.jpg"></a-sky>
+瀏覽器看結果 chrome https://網址/w0501.html <br/>
