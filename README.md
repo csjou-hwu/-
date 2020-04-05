@@ -79,7 +79,7 @@ cmd<br/>
 切換目錄(工作) cd w5<br/>
 檢查網址設定 ipconfig <br/>
 加入 wwwroot/wk0601.html <br/>
-內容參考網址： https://aframe.io/docs/1.0.0/primitives/a-obj-model.html
+內容參考網址： https://aframe.io/docs/1.0.0/primitives/a-obj-model.html <br/>
 下載pikachu.7z：https://github.com/csjou-hwu/coding1082/blob/master/pikachu.7z <br/>
 dotnet run<br/>
 chrome https://網址/w0601.html <br/>
