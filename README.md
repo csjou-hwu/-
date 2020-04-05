@@ -44,7 +44,7 @@ https://www.youtube.com/watch?v=WnYKd3tTvAM
 安裝<br/>
 開啟命令提示字元 cmd<br/>
 下載上週範例w4.7z：https://github.com/csjou-hwu/coding1082/blob/master/w4.7z <br/>
-解壓縮 w7.7z<br/>
+解壓縮 w4.7z<br/>
 切換目錄(工作) cd w4<br/>
 檢查網址設定 ipconfig <br/>
 執行程式 dotnet run<br/>
@@ -55,3 +55,32 @@ https://www.youtube.com/watch?v=WnYKd3tTvAM
 w0401.html 加入(w0501.html)<br/>
 <a-sky src="Street1.jpg"></a-sky>
 瀏覽器看結果 chrome https://網址/w0501.html <br/>
+影片<br/>
+https://www.youtube.com/watch?v=MRJCj0RG2kg
+https://www.youtube.com/watch?v=ke_YzESeRuk
+## 單元6 複習電腦基本指令+模型匯入
+dotnet run<br/>
+ipconfig<br/>
+cd 目錄<br/>
+cd ..<br/>
+box<br/>
+position<br/>
+color<br/>
+sky<br/>
+model<br/>
+cmd<br/>
+### 程序
+下載：<br/>
+網址：https://dotnet.microsoft.com/download <br/>
+安裝<br/>
+下載上週範例w5.7z：https://github.com/csjou-hwu/coding1082/blob/master/w5.7z <br/>
+解壓縮 w5.7z<br/>
+開啟命令提示字元 cmd<br/>
+切換目錄(工作) cd w5<br/>
+檢查網址設定 ipconfig <br/>
+加入 wwwroot/wk0601.html <br/>
+內容參考網址： https://aframe.io/docs/1.0.0/primitives/a-obj-model.html
+下載pikachu.7z：https://github.com/csjou-hwu/coding1082/blob/master/pikachu.7z <br/>
+dotnet run<br/>
+chrome https://網址/w0601.html <br/>
+調整位置 position="左右  上下  前後"<br/>
