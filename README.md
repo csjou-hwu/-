@@ -59,6 +59,8 @@ w0401.html 加入(w0501.html)<br/>
 https://www.youtube.com/watch?v=MRJCj0RG2kg <br/>
 https://www.youtube.com/watch?v=ke_YzESeRuk <br/>
 ## 單元6 複習電腦基本指令+模型匯入
+認單字：<br/>
+download<br/>
 dotnet run<br/>
 ipconfig<br/>
 cd 目錄<br/>
