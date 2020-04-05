@@ -25,11 +25,11 @@ https://www.youtube.com/watch?v=5mjFLwRMpxo
 修改Program.cs 加入 webBuilder.UseUrls("https://網址/"); <br/>
 修改Startup.cs 加入 app.UseStaticFiles()<br/>
 加入 wwwroot/wk0301.html <br/>
-內容參考網址： https://aframe.io/docs/1.0.0/introduction/
+內容參考網址： https://aframe.io/docs/1.0.0/introduction/<br/>
 dotnet run<br/>
 chrome https://網址/wk0301.html <br/>
 影片<br/>
-https://www.youtube.com/watch?v=WnYKd3tTvAM
+https://www.youtube.com/watch?v=WnYKd3tTvAM <br/>
 
 
 ## 單元4 複習電腦基本操作與指令
@@ -56,8 +56,8 @@ w0401.html 加入(w0501.html)<br/>
 <a-sky src="Street1.jpg"></a-sky>
 瀏覽器看結果 chrome https://網址/w0501.html <br/>
 影片<br/>
-https://www.youtube.com/watch?v=MRJCj0RG2kg
-https://www.youtube.com/watch?v=ke_YzESeRuk
+https://www.youtube.com/watch?v=MRJCj0RG2kg <br/>
+https://www.youtube.com/watch?v=ke_YzESeRuk <br/>
 ## 單元6 複習電腦基本指令+模型匯入
 dotnet run<br/>
 ipconfig<br/>
