@@ -1,4 +1,22 @@
 # -動手玩程式
+## 單元8 3D動畫
+### 程序
+下載：<br/>
+網址：https://dotnet.microsoft.com/download <br/>
+安裝<br/>
+下載上週範例w7.7z：https://github.com/csjou-hwu/coding1082/blob/master/w7.7z <br/>
+解壓縮 w7.7z<br/>
+改名 w7 -> w8 <br/>
+開啟命令提示字元 cmd<br/>
+切換目錄(工作) cd Downloads\w7<br/>
+檢查網址設定(10.231.166.xx) ipconfig <br/>
+dotnet run<br/>
+chrome https://10.231.166.xx/w0701.html <br/>
+加入 wwwroot/wk0801.html <br/>
+內容參考網址： https://aframe.io/docs/1.0.0/primitives/a-obj-model.html<br/>
+chrome https://10.231.166.20/w0801.html <br/>
+平板測試<br/>
+
 ## 單元7 動畫
 ### 程序
 下載：<br/>
@@ -17,6 +35,8 @@ chrome https://10.231.166.20/w0701.html <br/>
 平板測試<br/>
 參考網址： https://www.ghacks.net/2019/03/21/google-adds-sensor-permission-controls-to-chrome/ <br/>
 感測器啟用 : chrome://settings/content/sensors <br/>
+影片<br/>
+https://youtu.be/skHE_9or-zo <br/>
 
 ## 單元6 複習電腦基本指令+模型匯入
 認單字：<br/>
