@@ -13,6 +13,10 @@
 dotnet run<br/>
 chrome https://10.231.166.xx/w0701.html <br/>
 下載寶可夢 pokemon.7z：https://github.com/csjou-hwu/coding1082/blob/master/pokemon.7z <br/>
+解壓縮 pokemon.7z<br/>
+複製 3D模型檔 wwwroot<br/>
+下載操場圖片 pokemon.7z：https://github.com/csjou-hwu/coding1082/blob/master/Figs/R0011133.JPG <br/>
+複製 圖檔 wwwroot<br/>
 加入 wwwroot/wk0801.html <br/>
 內容參考網址： https://aframe.io/docs/1.0.0/primitives/a-obj-model.html<br/>
 chrome https://10.231.166.20/w0801.html <br/>
