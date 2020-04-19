@@ -12,6 +12,7 @@
 檢查網址設定(10.231.166.xx) ipconfig <br/>
 dotnet run<br/>
 chrome https://10.231.166.xx/w0701.html <br/>
+下載寶可夢 pokemon.7z：https://github.com/csjou-hwu/coding1082/blob/master/pokemon.7z <br/>
 加入 wwwroot/wk0801.html <br/>
 內容參考網址： https://aframe.io/docs/1.0.0/primitives/a-obj-model.html<br/>
 chrome https://10.231.166.20/w0801.html <br/>
