@@ -12,7 +12,7 @@
 加入 wwwroot/wk0701.html <br/>
 內容參考網址： https://aframe.io/docs/1.0.0/components/animation.html <br/>
 dotnet run<br/>
-chrome https://網址/w0701.html <br/>
+chrome https://10.231.166.20/w0701.html <br/>
 動畫 animation="property: position; to: 1 8 -10; dur: 2000; easing: linear; loop: true"<br/>
 平板測試<br/>
 參考網址： https://www.ghacks.net/2019/03/21/google-adds-sensor-permission-controls-to-chrome/ <br/>
