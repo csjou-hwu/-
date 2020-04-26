@@ -21,6 +21,7 @@ chrome https://10.231.166.xx/w0701.html <br/>
 內容參考網址： https://aframe.io/docs/1.0.0/primitives/a-obj-model.html<br/>
 chrome https://10.231.166.20/w0801.html <br/>
 平板測試<br/>
+影片：https://youtu.be/5ZCQmyTXq_U <br/>
 
 ## 單元7 動畫
 ### 程序
