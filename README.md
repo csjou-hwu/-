@@ -8,7 +8,16 @@ dur : t; 時間 0.001 秒 <br/>
 rotation="x y z" 旋轉 <br/>
 ### 拍攝全景相片
 ```
-<a-sky src="r2.jpg" rotation="0 0 -6"></a-sky>
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+        <a-sky src="r3.jpg" rotation="-10 100 20"></a-sky>
+    </a-scene>
+  </body>
+</html>
 ```
 ## 單元9 3D動畫位置調整
 ### 程序 參考單元8
