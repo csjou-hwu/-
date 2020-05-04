@@ -12,7 +12,8 @@ rotation="x y z" 旋轉 <br/>
 position="0 0 -2"<br/>
 animation : to : x,y,z; <br/>
 rotation="0 0 0"<br/>
-
+### 拍攝全景相片
+#### <a-sky src="r2.jpg" rotation="0 0 -6"></a-sky>
 ## 單元8 3D動畫
 ### 程序
 下載：<br/>
