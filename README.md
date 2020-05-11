@@ -1,4 +1,21 @@
 # -動手玩程式
+## 單元11 3D物件位置調整
+### 程序 參考單元8
+下載：<br/>
+網址：https://dotnet.microsoft.com/download <br/>
+安裝<br/>
+下載上週範例w10.7z：https://github.com/csjou-hwu/coding1082/blob/master/w10.7z <br/>
+解壓縮 w10.7z<br/>
+改名 w10 -> w11 <br/>
+開啟命令提示字元 cmd<br/>
+切換目錄(工作) cd Downloads\w11<br/>
+dotnet run<br/>
+chrome https://10.231.166.20/w1001.html <br/>
+拍照<br/>
+小畫家修剪<br/>
+存入wwwroot<br/>
+合併w1001.html+w0401.html<br/>
+
 ## 單元10 3D動畫位置調整
 ### 程序 參考單元8
 ### 位置調整
