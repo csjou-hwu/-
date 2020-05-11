@@ -36,12 +36,16 @@ rotation="x y z" 旋轉 <br/>
   </body>
 </html>
 ```
+影片：https://youtu.be/ghC5UV2m4dw <br/>
+
 ## 單元9 3D動畫位置調整
 ### 程序 參考單元8
 ### 位置調整
 position="0 0 -2"<br/>
 animation : to : x,y,z; <br/>
 rotation="0 0 0"<br/>
+影片： https://youtu.be/jP77OySKZXs <br/>
+
 ## 單元8 3D動畫
 ### 程序
 下載：<br/>
